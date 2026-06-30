@@ -92,19 +92,6 @@ bun run dev
 
 ---
 
-## 🌐 Live Demo
-
-> Published using the Anything AI platform.
-
-(Add your deployment link here)
-
----
-
-## 📸 Screenshots
-
-Add application screenshots here.
-
----
 
 ## 🎯 Use Cases
 
