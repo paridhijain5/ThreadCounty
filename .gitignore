@@ -1,0 +1,21 @@
+.DS_Store
+
+# Dependencies
+/node_modules/
+
+# Build output
+/build/
+/dist/
+
+# React Router
+/.react-router/
+
+# Environment variables
+.env
+.env.local
+
+# Vite cache
+.vite/
+
+# Logs
+*.log
